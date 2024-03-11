@@ -1,0 +1,43 @@
+---
+title: Shipeng Zhang's Personal Website
+author:
+  name: Shipeng Zhang
+
+output:
+  pdf_document:
+    toc: true
+    toc_depth: 2
+    number_sections: true
+---
+
+# Bio
+
+I am Shipeng Zhang, an undergraduate student with a major in Mathematics and Applied Probability at the prestigious University of Toronto. Currently specializing in Mathematics and Statistics, my academic journey is fueled by a deep-seated passion for the intersection of mathematics, statistics, and computer science.
+
+Eager to continuously expand my knowledge and skills, I actively seek opportunities to contribute to the fields I am passionate about. My belief in the power of collaboration has led me to connect with like-minded individuals who share a fervor for the realms of mathematics, statistics, and computer science.
+
+During my academic pursuits, I have not only excelled in my coursework but also delved into practical applications. From June to September 2023, I had the privilege of joining a research team at the Panasonic Group R&D laboratory. In this role, I played a pivotal part in developing multi-dimensional touchscreen production test integration software. Taking charge of the advanced development phase, I successfully contributed to the completion of the entire software.
+
+Beyond the academic realm, I find joy in the balance between work and life. In my leisure time, I am an avid reader, finding solace and inspiration in the pages of various genres. Additionally, I embrace an active lifestyle and maintain a healthy work-life balance through my love for swimming.
+
+As I continue to navigate my undergraduate journey, I am excited about the future opportunities that will allow me to blend my academic knowledge with real-world applications, contributing to the ever-evolving fields of mathematics, statistics, and computer science.
+
+# Curriculum Vitae
+
+## Education
+
+-   **Degree**: Undergraduate (currently studying)
+
+    University: University of Toronto, St. George Campus
+
+    Year: 2025 (currently studying)
+
+## Work Experience
+
+-   **Position**: Software Engineer
+-   *Company*: **Panasonic Corporation of China**
+    -   *Year*: 2023/06 - 2023/08
+    
+# Contact
+
+Feel free to reach out to me at [shipeng.zhang@mail.utoronoto.ca](shipeng.zhang@mail.utoronoto.ca) for any professional inquiries or just to connect.
